@@ -3,7 +3,7 @@
 - 🔭 I’m working on improving my skills and creating interesting projects.
 - 💞️ I’m looking to team up on fun coding projects, open source stuff, and web or app development.
 - 📫 How to reach me :
-     gmail- micasa.deepika07@gmail.com
+     gmail- saxenadeepika2005@gmail.com
      linkdIn- https://www.linkedin.com/in/deepika-saxena-403a18282/
 - ⚡ Fun fact: I write comments on almost every line of my code — gotta keep things super clear! 😄
 
