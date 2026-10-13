@@ -24,4 +24,4 @@ Currently exploring the intersection of **Python, AI, backend development, and d
 
 [LinkedIn](https://www.linkedin.com/in/deepika-saxena-403a18282/) · [Email](mailto:saxenadeepika2005@gmail.com)
 
-*Always curious. Always building solution for real world problems.*
+*Always curious. Always building solutions for real-world problems.*
